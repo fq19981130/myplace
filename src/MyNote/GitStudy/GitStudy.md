@@ -1,1 +1,0 @@
-Teach how to use Git
